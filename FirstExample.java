@@ -9,6 +9,10 @@ class FirstExample
    System.out.println("hello everyone"); //this is how we print messages on consol
    print();// this is how we call static method
   }
+ //instance variable
+ {
+  System.out.println("hello");
+ }
   
 }
 
