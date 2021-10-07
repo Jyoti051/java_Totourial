@@ -2,7 +2,7 @@ class FirstExample
 {
  static void print()
  {
-  System.out.println("Hello world");
+  System.out.println("Hello world");//static method
  }
   public static void main(String[] args)
   {
